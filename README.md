@@ -1,7 +1,11 @@
 # BlackBin
 
-## A Open Source Browser Based Blackcoin Wallet. 
-Based on [coinb.in](http://coinb.in/) by OutCast3k ([Github](https://github.com/OutCast3k/coinbin/))
+## A Open Source Browser Based Blackcoin Wallet
+Live version available at https://blackbin.blackchain.nl/
+
+Github URL: https://github.com/CoinBlack/blackbin/
+
+Based on [coinb.in](http://coinb.in/) by OutCast3k. Github: https://github.com/OutCast3k/coinbin/
 
 Supports a number of key features such as: 
 - Offline Compressed & uncompressed Address creation.
