@@ -1,7 +1,7 @@
 # BlackBin
 
 ## A Open Source Browser Based Blackcoin Wallet
-Live version available at https://blackbin.blackchain.nl/
+Live version available at https://wallet.blackcoin.nl
 
 Github URL: https://github.com/CoinBlack/blackbin/
 
