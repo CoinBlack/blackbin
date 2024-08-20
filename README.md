@@ -24,4 +24,4 @@ Supports a number of key features such as:
 - Offline qrcode creator and scanning tool.
 - HD (bip32) support.
 
-Donate to BMWvMeEa88iqBCevi9dVX8GAhnPCh3JBHx to see more development!
+Donate to BKDvboD1CzZ5KycP1FRSXRoi7XXhHoQhS1 to see more development!

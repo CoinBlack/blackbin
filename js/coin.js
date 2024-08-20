@@ -23,7 +23,7 @@
 	coinjs.compressed = false;
 
 	/* other vars */
-	coinjs.developer = 'BMWvMeEa88iqBCevi9dVX8GAhnPCh3JBHx'; //blackcoin
+	coinjs.developer = 'BKDvboD1CzZ5KycP1FRSXRoi7XXhHoQhS1'; //blackcoin
 
 	coinjs.txExtraTimeField = true;
 	coinjs.txExtraTimeFieldValue = false;
